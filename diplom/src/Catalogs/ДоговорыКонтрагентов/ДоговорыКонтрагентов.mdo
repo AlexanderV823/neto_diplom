@@ -158,6 +158,7 @@
       <key>ru</key>
       <value>Начало действия договора</value>
     </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
     <type>
       <types>Date</types>
       <dateQualifiers>
@@ -176,6 +177,7 @@
       <key>ru</key>
       <value>Окончание действия договора</value>
     </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
     <type>
       <types>Date</types>
       <dateQualifiers>
@@ -194,6 +196,7 @@
       <key>ru</key>
       <value>Сумма абонентской платы</value>
     </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
     <type>
       <types>Number</types>
       <numberQualifiers>
@@ -213,6 +216,7 @@
       <key>ru</key>
       <value>Стоимость часа работы</value>
     </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
     <type>
       <types>Number</types>
       <numberQualifiers>

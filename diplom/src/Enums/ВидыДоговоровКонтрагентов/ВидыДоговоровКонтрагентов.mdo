@@ -32,5 +32,6 @@
       <key>ru</key>
       <value>Абоненское обслуживание</value>
     </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
   </enumValues>
 </mdclass:Enum>

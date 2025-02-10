@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c553e01f-81d2-44eb-bda3-b0a36f804465">
+  <producedTypes>
+    <objectType typeId="501a97e8-b9ed-4dd6-80d7-730eb4f9d53e" valueTypeId="12da3984-c4aa-4853-9401-f0b3b3d154b7"/>
+    <refType typeId="73e49882-948d-4b66-868e-a5d9c535f111" valueTypeId="be43c46c-5cfd-427d-a441-06bc315a46dc"/>
+    <selectionType typeId="ef228c30-5aee-4bae-b44f-76514c91c1f5" valueTypeId="f9e7f598-5424-49f6-9c4d-530c40261988"/>
+    <listType typeId="f29080ff-191d-4b7a-82a1-96c55cb0ac50" valueTypeId="94695b76-6495-45ba-8469-2094faf2cc5f"/>
+    <managerType typeId="ee3369c0-4384-4416-be64-3b927e2dc4f8" valueTypeId="225cf49d-db31-4725-8fea-984bff0f7c67"/>
+  </producedTypes>
+  <name>ВКМ_ОбслуживаниеКлиента</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание клиента</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ВКМ_ОбслуживаниеКлиента.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
