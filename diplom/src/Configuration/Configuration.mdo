@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c0843cba-c70e-46ef-8964-7a0516ffaaa4">
+  <name>ДипломнаяРабота</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дипломная работа</value>
+  </synonym>
+  <comment>Дипломный проект профессии «1C-программист: с нуля до middle»</comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="46a08aa9-16f9-4453-93b7-15d2dc09d818"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="84823216-e1e2-4ba3-81ab-2a73d6c6f974"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="4b75cb9e-a338-4728-94ac-730291317df1"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="db3867dc-f68e-4137-9841-6d9f07d00948"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="ffc9d876-22c7-44d6-a69f-0bcba134c7cc"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="07f0ea4e-90f6-415e-ad83-ce2bf592754a"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="7c4e1341-77f9-4f94-8173-6b8668b90fd6"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
+  <languages uuid="04922b5d-8492-4795-ac79-a159a224e5ce">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
