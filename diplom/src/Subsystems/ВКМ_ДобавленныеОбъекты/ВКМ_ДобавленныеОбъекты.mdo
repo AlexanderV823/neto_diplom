@@ -7,4 +7,5 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
 </mdclass:Subsystem>
