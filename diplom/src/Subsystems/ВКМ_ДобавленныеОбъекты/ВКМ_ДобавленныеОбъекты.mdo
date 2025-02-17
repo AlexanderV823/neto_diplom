@@ -8,4 +8,6 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
+  <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
 </mdclass:Subsystem>
