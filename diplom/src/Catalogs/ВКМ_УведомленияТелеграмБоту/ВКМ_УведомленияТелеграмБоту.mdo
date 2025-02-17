@@ -10,7 +10,7 @@
   <name>ВКМ_УведомленияТелеграмБоту</name>
   <synonym>
     <key>ru</key>
-    <value>Уведомления телеграм боту</value>
+    <value>Уведомления Телеграм боту</value>
   </synonym>
   <comment>Дипломная работа Володин А.А.</comment>
   <useStandardCommands>true</useStandardCommands>
