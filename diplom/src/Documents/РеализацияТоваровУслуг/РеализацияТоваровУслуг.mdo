@@ -404,4 +404,12 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="c5a8342e-4d97-4187-8541-0bc5b1e39d32">
+    <name>ПФ_MXL_Акт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт</value>
+    </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
+  </templates>
 </mdclass:Document>
