@@ -24,4 +24,16 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <tabularSections uuid="4197446f-66d8-47dd-a365-c60353e6299a">
+    <producedTypes>
+      <objectType typeId="0ca62b14-0fb4-4aa3-abb4-b8548c96b91a" valueTypeId="dc8d5b1d-a71c-4a73-a7c1-ade0f5dceb40"/>
+      <rowType typeId="d037e2cc-6c18-41c6-91e9-9809a295a6e7" valueTypeId="f387fbae-3497-47ad-a202-1ed83eed577f"/>
+    </producedTypes>
+    <name>СписокДоговоров</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список договоров</value>
+    </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
+  </tabularSections>
 </mdclass:DataProcessor>
