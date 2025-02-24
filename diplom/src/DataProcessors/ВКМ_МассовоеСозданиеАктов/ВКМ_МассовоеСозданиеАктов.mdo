@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc01dbab-a6ef-4213-acda-c5aa0151a07b">
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc01dbab-a6ef-4213-acda-c5aa0151a07b">
   <producedTypes>
     <objectType typeId="12acb6e6-e8dc-431f-8627-bf10a2637a11" valueTypeId="a31b92e3-e92d-4d77-9275-e7502f4f4f5b"/>
     <managerType typeId="c1597cf4-9cf4-4508-876b-cdee0e5ca8e1" valueTypeId="89102290-7ab9-4bf3-b52f-aa232fd9bca8"/>
@@ -11,4 +11,17 @@
   </synonym>
   <comment>Дипломная работа Володин А.А.</comment>
   <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="65df9a0c-063d-4178-aff5-8b4e4ab1c3fd">
+    <name>ПериодДляУказанияМесяца</name>
+    <synonym>
+      <key>ru</key>
+      <value>Период для указания месяца</value>
+    </synonym>
+    <comment>Дипломная работа Володин А.А.</comment>
+    <type>
+      <types>StandardPeriod</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
 </mdclass:DataProcessor>
