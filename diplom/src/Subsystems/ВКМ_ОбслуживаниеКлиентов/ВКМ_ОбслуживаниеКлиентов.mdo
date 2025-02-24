@@ -11,4 +11,5 @@
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
 </mdclass:Subsystem>

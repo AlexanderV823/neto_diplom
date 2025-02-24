@@ -11,6 +11,7 @@
   </synonym>
   <comment>Дипломная работа Володин А.А.</comment>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_МассовоеСозданиеАктов.Form.Форма</defaultForm>
   <attributes uuid="65df9a0c-063d-4178-aff5-8b4e4ab1c3fd">
     <name>ПериодДляУказанияМесяца</name>
     <synonym>
@@ -45,6 +46,7 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
     <attributes uuid="973e06b1-1a39-4d14-87dc-4015e64df1eb">
       <name>РеализацияТоваровУслуг</name>
@@ -57,6 +59,16 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
   </tabularSections>
+  <forms uuid="37b3640f-7dfd-441a-bd82-1bcda66b68a6">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:DataProcessor>
