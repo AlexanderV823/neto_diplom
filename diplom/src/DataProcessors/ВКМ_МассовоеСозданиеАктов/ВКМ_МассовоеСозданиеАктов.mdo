@@ -17,7 +17,6 @@
       <key>ru</key>
       <value>Период для указания месяца</value>
     </synonym>
-    <comment>Дипломная работа Володин А.А.</comment>
     <type>
       <types>StandardPeriod</types>
     </type>
@@ -35,5 +34,29 @@
       <value>Список договоров</value>
     </synonym>
     <comment>Дипломная работа Володин А.А.</comment>
+    <attributes uuid="5f024207-e3c1-48ed-98c0-91eed578da96">
+      <name>Договор</name>
+      <synonym>
+        <key>ru</key>
+        <value>Договор</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ДоговорыКонтрагентов</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="973e06b1-1a39-4d14-87dc-4015e64df1eb">
+      <name>РеализацияТоваровУслуг</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реализация товаров и услуг</value>
+      </synonym>
+      <type>
+        <types>DocumentRef.РеализацияТоваровУслуг</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </attributes>
   </tabularSections>
 </mdclass:DataProcessor>
