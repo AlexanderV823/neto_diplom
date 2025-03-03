@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="90b9158d-6465-47e7-8dd2-23671a0c4e3c">
+  <producedTypes>
+    <objectType typeId="0f470dae-5ee7-49f9-90b3-9c60e5dad672" valueTypeId="615e92ea-476a-43ba-8c18-b2ef7aee2e22"/>
+    <refType typeId="73bce883-2fa2-4580-89de-114b6252ed9c" valueTypeId="8aa49f97-96ff-476f-bd3c-e636b28682cb"/>
+    <selectionType typeId="7e867cca-ace6-486e-964e-4d90e797a055" valueTypeId="3f8c082b-118b-4b16-b8eb-1e39fc808ada"/>
+    <listType typeId="3ae6fe68-aedc-426f-973e-0d552b45f468" valueTypeId="91ce5afb-e714-437b-8604-acffd70f3d72"/>
+    <managerType typeId="c3ffd954-717c-411b-a31e-e15ef205d4d6" valueTypeId="f86a0712-6898-4fc5-9b6c-f504c3ad7521"/>
+    <displacingCalculationTypesType typeId="d72cab50-6a08-4ca0-8710-b190966ee781" valueTypeId="e70bd11e-013a-47c0-a7ff-f94ec2ffdf90"/>
+    <displacingCalculationTypesRowType typeId="f07d593c-d9d4-42c7-b427-0dfa9d901503" valueTypeId="d4588dce-ca8d-4804-8640-9f1ebb2b042d"/>
+    <baseCalculationTypesType typeId="cde4b12e-67b4-4c45-9a6e-1e6af8ad9348" valueTypeId="ad41b8d9-8893-40f8-8bbd-d6e945d38394"/>
+    <baseCalculationTypesRowType typeId="91783385-cf65-4362-8312-3909a2deb873" valueTypeId="33692fd1-2bf1-4a67-9348-f199deb09629"/>
+    <leadingCalculationTypesType typeId="06527749-85d8-45db-873a-dc8e2d7ddbcb" valueTypeId="607d1cc5-6e92-41fe-897d-226f21de216c"/>
+    <leadingCalculationTypesRowType typeId="20cf864f-63dc-4499-9e40-df3b65c7cb08" valueTypeId="2643d573-c599-4220-a349-cc07e3f56d2b"/>
+  </producedTypes>
+  <name>ВКМ_ДополнительныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительные начисления</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <descriptionLength>40</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ChartOfCalculationTypes>

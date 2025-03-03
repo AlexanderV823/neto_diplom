@@ -16,4 +16,7 @@
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
 </mdclass:Subsystem>
