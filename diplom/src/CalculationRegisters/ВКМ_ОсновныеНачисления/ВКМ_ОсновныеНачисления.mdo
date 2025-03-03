@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CalculationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="30a54602-298f-42f8-a57c-3dccda39becd">
+  <producedTypes>
+    <selectionType typeId="e116a5e2-7c41-4755-8770-a953f49d3247" valueTypeId="de980f25-efb5-4e5e-9a71-a137a4334237"/>
+    <listType typeId="b67058bb-18f8-449d-9dce-abdc395d52fb" valueTypeId="da3f6e28-daf3-43ad-a3ff-0188cb4701a0"/>
+    <managerType typeId="12081fad-43d4-4e1d-a3d3-0a6c94c7b676" valueTypeId="29924f91-bc46-4d9c-ad93-b85f7a070b4c"/>
+    <recordSetType typeId="3c3bc1eb-5502-4303-a557-8fadc28bc11c" valueTypeId="09ebd806-c81b-4efa-902e-73287bafab8d"/>
+    <recordKeyType typeId="dc7a3b7e-8a9a-4c92-947f-fdbc16566b53" valueTypeId="288f698d-c081-4536-84bb-f57deb9be21e"/>
+    <recordType typeId="51ff7b28-ac8f-4c4e-94be-043e67b9a8cb" valueTypeId="80ab9efb-7ce6-4a77-9e4c-83584e6d5d98"/>
+    <recalcsType typeId="e743fe41-0166-4c0d-9dc8-06a9ded85ea0" valueTypeId="d2913eaf-16e2-4e74-8bb9-040dc75cca65"/>
+  </producedTypes>
+  <name>ВКМ_ОсновныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <periodicity>Month</periodicity>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:CalculationRegister>
