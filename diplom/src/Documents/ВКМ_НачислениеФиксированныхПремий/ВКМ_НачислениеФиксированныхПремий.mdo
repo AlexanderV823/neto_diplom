@@ -32,10 +32,10 @@
       <objectType typeId="cb0f4bd6-f0f1-4691-a3d5-f275a9712dde" valueTypeId="c5a2613c-cc43-46f0-9380-bca0f207b2f8"/>
       <rowType typeId="f98f5f2d-2f8b-4c94-9790-14583e6ac4f7" valueTypeId="935660ef-6d68-48da-a901-8b35a5727430"/>
     </producedTypes>
-    <name>Начисления</name>
+    <name>СписокСотрудников</name>
     <synonym>
       <key>ru</key>
-      <value>Начисления</value>
+      <value>Список сотрудников</value>
     </synonym>
     <attributes uuid="4fdb151f-b6d9-4657-bf32-70f9d9f5d7f0">
       <name>Сотрудник</name>
@@ -51,75 +51,11 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="9583c9d8-fc1c-4277-8761-acfb7a116be9">
-      <name>Категория</name>
-      <synonym>
-        <key>ru</key>
-        <value>Категория</value>
-      </synonym>
-      <type>
-        <types>EnumRef.ВКМ_КатегорияСотрудника</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
-    <attributes uuid="5cf77641-e2d1-4515-93d1-5d219a733c9e">
-      <name>ВидРасчета</name>
-      <synonym>
-        <key>ru</key>
-        <value>Вид расчета</value>
-      </synonym>
-      <type>
-        <types>ChartOfCalculationTypesRef.ВКМ_ДополнительныеНачисления</types>
-        <types>ChartOfCalculationTypesRef.ВКМ_ОсновныеНачисления</types>
-        <types>ChartOfCalculationTypesRef.ВКМ_Удержания</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
-    <attributes uuid="ed278e89-d102-4794-b7c4-55cbf8393511">
-      <name>ДатаНачала</name>
-      <synonym>
-        <key>ru</key>
-        <value>Дата начала</value>
-      </synonym>
-      <type>
-        <types>Date</types>
-        <dateQualifiers>
-          <dateFractions>Date</dateFractions>
-        </dateQualifiers>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
-    <attributes uuid="335b6814-ca4d-49f0-83d5-4f0d32adffd8">
-      <name>ДатаОкончания</name>
-      <synonym>
-        <key>ru</key>
-        <value>Дата окончания</value>
-      </synonym>
-      <type>
-        <types>Date</types>
-        <dateQualifiers>
-          <dateFractions>Date</dateFractions>
-        </dateQualifiers>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
     <attributes uuid="ada478aa-5b87-4e2e-9d3b-7efdfc42078f">
       <name>Размер</name>
       <synonym>
         <key>ru</key>
-        <value>Размер</value>
+        <value>Сумма премии</value>
       </synonym>
       <type>
         <types>Number</types>
