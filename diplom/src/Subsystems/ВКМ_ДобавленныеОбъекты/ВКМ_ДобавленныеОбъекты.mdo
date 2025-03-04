@@ -24,4 +24,6 @@
   <content>CalculationRegister.ВКМ_Удержания</content>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>Enum.ВКМ_КатегорияСотрудника</content>
+  <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
 </mdclass:Subsystem>
