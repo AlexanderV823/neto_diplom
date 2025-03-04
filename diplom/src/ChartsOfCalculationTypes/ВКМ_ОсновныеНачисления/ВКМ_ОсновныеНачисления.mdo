@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eba86417-3eee-42ea-9929-7d2e5ce25548">
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eba86417-3eee-42ea-9929-7d2e5ce25548">
   <producedTypes>
     <objectType typeId="3cc70720-0cf2-4493-9f76-bdcaf73078d2" valueTypeId="5633e221-7357-47df-9a60-543c2ac44f98"/>
     <refType typeId="63bd16af-1e73-42cc-b96f-d8348f44a99d" valueTypeId="4ddb05fe-874d-4fc4-a02a-550bb86c0d2c"/>
@@ -33,4 +33,15 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <actionPeriodUse>true</actionPeriodUse>
+  <predefined>
+    <items id="b6d5d6b1-27b5-4681-8444-06704124655d">
+      <name>Оклад</name>
+      <description>Оклад</description>
+      <code xsi:type="core:StringValue">
+        <value>01</value>
+      </code>
+      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
+    </items>
+  </predefined>
 </mdclass:ChartOfCalculationTypes>
