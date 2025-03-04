@@ -27,4 +27,5 @@
   <content>Enum.ВКМ_КатегорияСотрудника</content>
   <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
   <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
 </mdclass:Subsystem>
