@@ -41,7 +41,15 @@
       <code xsi:type="core:StringValue">
         <value>01</value>
       </code>
+      <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
       <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
+    </items>
+    <items id="bb11dcb5-627b-425d-a908-de2e5aae4397">
+      <name>Отпуск</name>
+      <description>Отпуск</description>
+      <code xsi:type="core:StringValue">
+        <value>03</value>
+      </code>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>
