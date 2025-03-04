@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8c765c3-0e03-4d5e-9da8-b509796cf51c">
+  <producedTypes>
+    <selectionType typeId="8f194a31-22d3-46af-83e3-99b60b5bda97" valueTypeId="80b874ea-0689-4dd0-8d28-8df1295bd0bd"/>
+    <listType typeId="028b99c5-af88-47e8-b9bd-bedf78ed154c" valueTypeId="12683c17-6714-48b0-b39e-87d91cd0a6db"/>
+    <managerType typeId="00d406d7-a548-4702-94d7-6aedf726c55d" valueTypeId="48c0c9cf-7131-4af1-b189-320475540da8"/>
+    <recordSetType typeId="cdca239d-d3e7-4e12-b079-c202a5b36b22" valueTypeId="5f979b6d-6cfb-4040-9663-3e363a0084b4"/>
+    <recordKeyType typeId="a9d2c174-2326-4baa-a552-26b91e79f98a" valueTypeId="631447aa-4ec5-4cdd-98e9-0401359c651b"/>
+    <recordType typeId="4cc55ccc-a8db-4432-bf70-5a03f540712e" valueTypeId="51e84eb9-5bc2-484c-94fa-66361529a2a9"/>
+    <recordManagerType typeId="88a896b4-94c8-4637-a1c7-d29c7cddd682" valueTypeId="98eb930e-cdc2-4e31-80ee-a4d9b5625ad0"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ графики работы</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="049dabf5-00cb-46a4-bc7b-0bf8ea5cee0b">
+    <name>Значение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Значение</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>5</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="b8828865-951f-46df-b914-24e8ef6828f9">
+    <name>Дата</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <denyIncompleteValues>true</denyIncompleteValues>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>
