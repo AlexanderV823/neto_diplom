@@ -50,6 +50,8 @@
       <code xsi:type="core:StringValue">
         <value>03</value>
       </code>
+      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
+      <leading>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</leading>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

@@ -73,7 +73,6 @@
         <value>Вид расчета</value>
       </synonym>
       <type>
-        <types>ChartOfCalculationTypesRef.ВКМ_ДополнительныеНачисления</types>
         <types>ChartOfCalculationTypesRef.ВКМ_ОсновныеНачисления</types>
         <types>ChartOfCalculationTypesRef.ВКМ_Удержания</types>
       </type>
