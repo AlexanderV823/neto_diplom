@@ -40,23 +40,6 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <attributes uuid="4178a41f-3f43-433b-ab48-39e393dd7e65">
-    <name>Размер</name>
-    <synonym>
-      <key>ru</key>
-      <value>Размер</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>15</precision>
-        <scale>2</scale>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </attributes>
   <dimensions uuid="0a7b9155-cb36-4014-a095-529967a2874c">
     <name>Сотрудник</name>
     <synonym>

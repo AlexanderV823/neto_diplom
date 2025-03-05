@@ -25,6 +25,7 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <tabularSections uuid="53bd741c-5352-48f3-acb7-f8349cd88af5">
@@ -51,8 +52,8 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="ada478aa-5b87-4e2e-9d3b-7efdfc42078f">
-      <name>Размер</name>
+    <attributes uuid="191f453c-1efd-48c9-b8e8-9e67b99eb8eb">
+      <name>СуммаПремии</name>
       <synonym>
         <key>ru</key>
         <value>Сумма премии</value>
