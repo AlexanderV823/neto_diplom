@@ -33,6 +33,8 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <actionPeriodUse>true</actionPeriodUse>
   <predefined>
     <items id="b6d5d6b1-27b5-4681-8444-06704124655d">
@@ -41,8 +43,8 @@
       <code xsi:type="core:StringValue">
         <value>01</value>
       </code>
+      <actionPeriodIsBase>true</actionPeriodIsBase>
       <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
-      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
     </items>
     <items id="bb11dcb5-627b-425d-a908-de2e5aae4397">
       <name>Отпуск</name>
@@ -50,8 +52,7 @@
       <code xsi:type="core:StringValue">
         <value>03</value>
       </code>
-      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
-      <leading>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</leading>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

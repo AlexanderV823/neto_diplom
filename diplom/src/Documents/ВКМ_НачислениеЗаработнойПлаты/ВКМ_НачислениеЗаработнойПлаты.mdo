@@ -27,6 +27,7 @@
   <registerRecords>CalculationRegister.ВКМ_ОсновныеНачисления</registerRecords>
   <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
   <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <tabularSections uuid="d6877f25-083f-4159-8b9e-4bf5502424a8">
@@ -53,20 +54,6 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="f63495f6-dca9-4082-9e9b-ed794bedfb0e">
-      <name>Категория</name>
-      <synonym>
-        <key>ru</key>
-        <value>Категория</value>
-      </synonym>
-      <type>
-        <types>EnumRef.ВКМ_КатегорияСотрудника</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
     <attributes uuid="c502b934-3878-4a57-ad84-fb4d3a84470a">
       <name>ВидРасчета</name>
       <synonym>
@@ -75,7 +62,6 @@
       </synonym>
       <type>
         <types>ChartOfCalculationTypesRef.ВКМ_ОсновныеНачисления</types>
-        <types>ChartOfCalculationTypesRef.ВКМ_Удержания</types>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
@@ -128,6 +114,20 @@
           <precision>15</precision>
           <scale>2</scale>
         </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="d0a30922-f595-41fa-9a96-65e0dc268554">
+      <name>ГрафикРаботы</name>
+      <synonym>
+        <key>ru</key>
+        <value>График работы</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>

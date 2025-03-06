@@ -33,6 +33,8 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</baseCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <predefined>
     <items id="f48a55b5-98c5-454b-923a-4a99785ddc80">
       <name>Премия</name>
@@ -40,7 +42,6 @@
       <code xsi:type="core:StringValue">
         <value>02</value>
       </code>
-      <leading>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</leading>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

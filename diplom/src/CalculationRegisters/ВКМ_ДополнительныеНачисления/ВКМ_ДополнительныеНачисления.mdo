@@ -17,6 +17,7 @@
   <comment>Дипломная работа Володин А.А.</comment>
   <useStandardCommands>true</useStandardCommands>
   <periodicity>Month</periodicity>
+  <basePeriod>true</basePeriod>
   <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartOfCalculationTypes>
   <dataLockControlMode>Managed</dataLockControlMode>
   <resources uuid="1fca1f0d-1c17-4456-b459-1492742db272">
@@ -36,6 +37,23 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
+  <attributes uuid="263088cf-e426-494a-8f34-c1082530a50b">
+    <name>Показатель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Показатель</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
   <dimensions uuid="8aa0da6c-dffe-418d-a76e-918271c2cfba">
     <name>Сотрудник</name>
     <synonym>
@@ -44,19 +62,6 @@
     </synonym>
     <type>
       <types>CatalogRef.Пользователи</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </dimensions>
-  <dimensions uuid="8b62915a-f3b8-422a-9eab-a13ada56af77">
-    <name>Категория</name>
-    <synonym>
-      <key>ru</key>
-      <value>Категория</value>
-    </synonym>
-    <type>
-      <types>EnumRef.ВКМ_КатегорияСотрудника</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

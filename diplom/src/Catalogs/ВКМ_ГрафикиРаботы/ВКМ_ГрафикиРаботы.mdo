@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="623c91b6-5d3e-4268-81eb-bb02638006b7">
+  <producedTypes>
+    <objectType typeId="bd174e3c-f65c-4862-98ac-101aefb15443" valueTypeId="2f5cef4e-0304-45af-889b-0a8d1d907a64"/>
+    <refType typeId="6c959304-a421-4fb9-8f96-fe3ed3b29571" valueTypeId="1a684541-dafa-4804-8ace-3cbfa99b5155"/>
+    <selectionType typeId="03447545-5d42-4cdd-913d-2e9cb40bd7bb" valueTypeId="a385d378-ea91-40fe-a495-7cafdc94bf6f"/>
+    <listType typeId="a0a20638-7228-4a85-81ec-db919d801f86" valueTypeId="170fb27c-051f-4a59-a14d-d00c7391a2f5"/>
+    <managerType typeId="232e1cae-e3ad-48ca-a02d-bb59fe68b7df" valueTypeId="ceee03d1-9964-415f-a226-5a55f701d3e0"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </synonym>
+  <comment>Дипломная работа Волдодин А.А.</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="780f154f-a240-406a-b8f9-a3d247e3f773">
+      <name>Пятидневный</name>
+      <description>Пятидневный</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+  </predefined>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

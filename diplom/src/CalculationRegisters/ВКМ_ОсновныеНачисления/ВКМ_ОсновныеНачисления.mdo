@@ -18,6 +18,7 @@
   <useStandardCommands>true</useStandardCommands>
   <periodicity>Month</periodicity>
   <actionPeriod>true</actionPeriod>
+  <basePeriod>true</basePeriod>
   <schedule>InformationRegister.ВКМ_ГрафикиРаботы</schedule>
   <scheduleValue>InformationRegister.ВКМ_ГрафикиРаботы.Resource.Значение</scheduleValue>
   <scheduleDate>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.Дата</scheduleDate>
@@ -40,6 +41,70 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
+  <resources uuid="6f744491-b08a-40cb-a78d-80948f0fb1ea">
+    <name>ЧасовОтработано</name>
+    <synonym>
+      <key>ru</key>
+      <value>Часов отработано</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <resources uuid="341a6056-2a14-438e-8adc-41d87fe49336">
+    <name>КалендарныеДни</name>
+    <synonym>
+      <key>ru</key>
+      <value>Календарные дни</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="66163a19-a1dd-49af-8191-c6483a7e75c3">
+    <name>ГрафикРаботы</name>
+    <synonym>
+      <key>ru</key>
+      <value>График работы</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <attributes uuid="f8d538b0-4a7f-4eea-8745-2dbaa177b854">
+    <name>Показатель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Показатель</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
   <dimensions uuid="0a7b9155-cb36-4014-a095-529967a2874c">
     <name>Сотрудник</name>
     <synonym>
@@ -48,19 +113,6 @@
     </synonym>
     <type>
       <types>CatalogRef.Пользователи</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </dimensions>
-  <dimensions uuid="ab5562fe-7bd6-4360-9c7a-5ddf6f544caa">
-    <name>Категория</name>
-    <synonym>
-      <key>ru</key>
-      <value>Категория</value>
-    </synonym>
-    <type>
-      <types>EnumRef.ВКМ_КатегорияСотрудника</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

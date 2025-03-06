@@ -50,6 +50,7 @@
   </languages>
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты</subsystems>
+  <subsystems>Subsystem.ВКМ_Кадры</subsystems>
   <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
   <subsystems>Subsystem.Деньги</subsystems>
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
@@ -1185,6 +1186,7 @@
   <catalogs>Catalog.ВерсииРасширений</catalogs>
   <catalogs>Catalog.ВерсииФайлов</catalogs>
   <catalogs>Catalog.ВидыКонтактнойИнформации</catalogs>
+  <catalogs>Catalog.ВКМ_ГрафикиРаботы</catalogs>
   <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ВКМ_УведомленияТелеграмБоту</catalogs>
   <catalogs>Catalog.ВнешниеПользователи</catalogs>
@@ -1245,7 +1247,6 @@
   <enums>Enum.ВидыДополнительныхОтчетовИОбработок</enums>
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ВидыСвойств</enums>
-  <enums>Enum.ВКМ_КатегорияСотрудника</enums>
   <enums>Enum.ДействияСФайламиПоДвойномуЩелчку</enums>
   <enums>Enum.ДополнительныеЗначенияДоступа</enums>
   <enums>Enum.ДоступныеПериодыОтчета</enums>
