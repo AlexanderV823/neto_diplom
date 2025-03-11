@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f4814ef4-8f92-4fba-a03d-ad33e3621c80">
+  <name>ВКМ_ДобавлениеИзменениеНачислениеФиксированнойПремии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление изменение Начисление фиксированной премии</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>

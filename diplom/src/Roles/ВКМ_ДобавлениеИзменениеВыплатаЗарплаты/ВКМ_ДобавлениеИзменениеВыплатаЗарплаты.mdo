@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0b635699-42a8-4416-8198-93764e7bcc5f">
+  <name>ВКМ_ДобавлениеИзменениеВыплатаЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление изменение Выплата зарплаты</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>

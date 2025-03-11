@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cd322133-4d70-47e9-85f1-05f80dd02cda">
+  <name>ВКМ_ДобавлениеИзменениеГрафикОтпусков</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление изменение График отпусков</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>
