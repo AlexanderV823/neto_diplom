@@ -35,4 +35,5 @@
   <content>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</content>
   <content>Role.ВКМ_ДобавлениеИзменениеНачислениеЗаработнойПлаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеНачислениеФиксированнойПремии</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
 </mdclass:Subsystem>
