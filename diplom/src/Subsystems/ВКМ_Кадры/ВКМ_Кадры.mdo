@@ -31,4 +31,5 @@
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
   <content>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>

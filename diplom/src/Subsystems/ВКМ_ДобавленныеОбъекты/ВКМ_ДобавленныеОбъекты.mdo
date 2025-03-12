@@ -42,4 +42,9 @@
   <content>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</content>
   <content>Role.ВКМ_БазовыеПрава</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_ПросмотрОтчетаРасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_ПросмотрОтчетаРасчётыССотрудниками</content>
+  <content>Role.ВКМ_ПросмотрОтчетаАнализВыставленныхАктов</content>
+  <content>Role.ВКМ_ПросмотрОтчетаВыработкаСпециалистов</content>
 </mdclass:Subsystem>

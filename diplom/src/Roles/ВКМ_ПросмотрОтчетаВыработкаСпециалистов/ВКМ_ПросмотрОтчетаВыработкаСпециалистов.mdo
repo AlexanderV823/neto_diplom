@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="276bd0c3-dd87-4c22-8bfc-195479cbcfc0">
+  <name>ВКМ_ПросмотрОтчетаВыработкаСпециалистов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Просмотр отчета Выработка специалистов</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>

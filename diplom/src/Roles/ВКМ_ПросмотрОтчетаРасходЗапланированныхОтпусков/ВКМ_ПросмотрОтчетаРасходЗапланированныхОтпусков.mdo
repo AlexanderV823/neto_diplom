@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9d4dac18-61fa-49c6-9778-bd0e9df12e7b">
+  <name>ВКМ_ПросмотрОтчетаРасходЗапланированныхОтпусков</name>
+  <synonym>
+    <key>ru</key>
+    <value>Просмотр отчета Расход запланированных отпусков</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>
