@@ -217,6 +217,7 @@
         <common>true</common>
       </userVisible>
       <horizontalAlign>Left</horizontalAlign>
+      <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
       <visible>true</visible>
@@ -386,16 +387,16 @@
     <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
     <items xsi:type="form:Button">
-      <name>ФормаЗаполнить</name>
-      <id>26</id>
+      <name>ФормаСоздатьРеализацию</name>
+      <id>28</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗаполнитьРасширеннаяПодсказка</name>
-        <id>27</id>
+        <name>ФормаСоздатьРеализациюРасширеннаяПодсказка</name>
+        <id>29</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -408,7 +409,7 @@
           <horizontalAlign>Left</horizontalAlign>
         </extInfo>
       </extendedTooltip>
-      <commandName>Form.Command.Заполнить</commandName>
+      <commandName>Form.Command.СоздатьРеализацию</commandName>
       <representation>Auto</representation>
       <defaultButton>true</defaultButton>
       <autoMaxWidth>true</autoMaxWidth>
@@ -448,18 +449,18 @@
     <main>true</main>
   </attributes>
   <formCommands>
-    <name>Заполнить</name>
+    <name>СоздатьРеализацию</name>
     <title>
       <key>ru</key>
-      <value>Заполнить</value>
+      <value>Создать реализацию</value>
     </title>
-    <id>1</id>
+    <id>2</id>
     <use>
       <common>true</common>
     </use>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
-        <name>Заполнить</name>
+        <name>СоздатьРеализацию</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
