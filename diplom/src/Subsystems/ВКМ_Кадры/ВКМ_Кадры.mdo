@@ -28,4 +28,5 @@
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
   <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
 </mdclass:Subsystem>
