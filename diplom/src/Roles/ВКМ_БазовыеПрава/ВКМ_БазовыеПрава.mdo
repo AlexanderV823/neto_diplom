@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fbbdb022-cf92-4ed9-a6ee-9e5e1612eef4">
+  <name>ВКМ_БазовыеПрава</name>
+  <synonym>
+    <key>ru</key>
+    <value>Базовые права</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>

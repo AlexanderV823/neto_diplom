@@ -146,7 +146,7 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="807f384b-7117-41de-8994-663db0ffe886">
+    <attributes uuid="68778a7a-2b73-4813-a9e5-7309144e40eb">
       <name>СуммаДней</name>
       <synonym>
         <key>ru</key>
@@ -155,7 +155,8 @@
       <type>
         <types>Number</types>
         <numberQualifiers>
-          <precision>10</precision>
+          <precision>15</precision>
+          <scale>2</scale>
         </numberQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>

@@ -411,6 +411,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.ВКМ_ОбслуживаниеКлиентов</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.ПапкиФайлов.Attribute.Ответственный</name>
 		<right>
 			<name>View</name>
@@ -7095,6 +7102,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.ВКМ_ДобавленныеОбъекты</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.Контрагенты.TabularSection.КонтактнаяИнформация</name>
 		<right>
 			<name>View</name>
@@ -13692,6 +13706,13 @@
 		<right>
 			<name>Edit</name>
 			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_Кадры</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
 		</right>
 	</object>
 	<object>
