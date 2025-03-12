@@ -31,6 +31,22 @@
   <registerRecords>AccumulationRegister.ВКМ_УчетОтпусков</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="e462b8fc-e7d3-4dc2-8cc6-6b04a7ebb3fa">
+    <name>Комментарий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комментарий</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="d6877f25-083f-4159-8b9e-4bf5502424a8">
     <producedTypes>
       <objectType typeId="ae12ba09-3852-479f-917f-135a5e97ea45" valueTypeId="b2746727-2497-4d89-8fdb-76af128f7823"/>
