@@ -20,6 +20,14 @@
   <informationRegisterPeriodicity>Month</informationRegisterPeriodicity>
   <mainFilterOnPeriod>true</mainFilterOnPeriod>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <recordPresentation>
+    <key>ru</key>
+    <value>Условия оплаты сотрудников</value>
+  </recordPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Условия оплаты сотрудников</value>
+  </listPresentation>
   <resources uuid="d8efde88-6b6f-4427-bea4-ca57cfee5fdf">
     <name>Оклад</name>
     <synonym>

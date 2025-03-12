@@ -62,6 +62,7 @@
       </code>
       <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
       <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</base>
+      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ПроцентОтРабот</base>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

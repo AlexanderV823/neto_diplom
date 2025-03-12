@@ -62,23 +62,6 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <resources uuid="341a6056-2a14-438e-8adc-41d87fe49336">
-    <name>КалендарныеДни</name>
-    <synonym>
-      <key>ru</key>
-      <value>Календарные дни</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>15</precision>
-        <scale>2</scale>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </resources>
   <attributes uuid="66163a19-a1dd-49af-8191-c6483a7e75c3">
     <name>ГрафикРаботы</name>
     <synonym>
@@ -87,23 +70,6 @@
     </synonym>
     <type>
       <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </attributes>
-  <attributes uuid="f8d538b0-4a7f-4eea-8745-2dbaa177b854">
-    <name>Показатель</name>
-    <synonym>
-      <key>ru</key>
-      <value>Показатель</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>15</precision>
-        <scale>2</scale>
-      </numberQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

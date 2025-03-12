@@ -51,5 +51,12 @@
         <value>02</value>
       </code>
     </items>
+    <items id="9f63b4ed-0fba-45d4-aa8b-ff589174cb97">
+      <name>ПроцентОтРабот</name>
+      <description>Процент от работ</description>
+      <code xsi:type="core:StringValue">
+        <value>05</value>
+      </code>
+    </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

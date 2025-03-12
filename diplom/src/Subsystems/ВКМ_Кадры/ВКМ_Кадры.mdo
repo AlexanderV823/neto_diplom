@@ -27,4 +27,5 @@
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
 </mdclass:Subsystem>

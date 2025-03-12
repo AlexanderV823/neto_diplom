@@ -37,10 +37,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </resources>
   <attributes uuid="263088cf-e426-494a-8f34-c1082530a50b">
-    <name>Показатель</name>
+    <name>ПроцентПремии</name>
     <synonym>
       <key>ru</key>
-      <value>Показатель</value>
+      <value>Процент премии</value>
     </synonym>
     <type>
       <types>Number</types>

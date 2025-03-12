@@ -15,8 +15,13 @@
   </synonym>
   <comment>Дипломная работа Володин А.А.</comment>
   <useStandardCommands>true</useStandardCommands>
+  <registerType>Turnovers</registerType>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
+  <listPresentation>
+    <key>ru</key>
+    <value>Выполненные сотрудником работы</value>
+  </listPresentation>
   <resources uuid="674dde9e-a1f5-4e41-9d8f-bd76ff269fff">
     <name>ЧасовКОплате</name>
     <synonym>
