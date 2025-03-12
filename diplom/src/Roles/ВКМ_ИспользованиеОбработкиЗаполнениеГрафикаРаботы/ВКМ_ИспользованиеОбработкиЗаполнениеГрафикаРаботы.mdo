@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="54d05a41-f1e2-4d4e-b4ac-f8f0aec63f1a">
+  <name>ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использование обработки Заполнение Графика Работы</value>
+  </synonym>
+  <comment>Дипломная работа Володин А.А.</comment>
+</mdclass:Role>

@@ -39,4 +39,5 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
+  <content>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</content>
 </mdclass:Subsystem>
