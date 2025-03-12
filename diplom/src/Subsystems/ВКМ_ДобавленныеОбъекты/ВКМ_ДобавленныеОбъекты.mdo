@@ -41,4 +41,5 @@
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
   <content>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</content>
   <content>Role.ВКМ_БазовыеПрава</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
 </mdclass:Subsystem>

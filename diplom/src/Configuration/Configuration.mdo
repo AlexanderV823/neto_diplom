@@ -1294,6 +1294,8 @@
   <reports>Report.АнализПравДоступа</reports>
   <reports>Report.ВКМ_АнализВыставленныхАктов</reports>
   <reports>Report.ВКМ_ВыработкаСпециалистов</reports>
+  <reports>Report.ВКМ_РасходЗапланированныхОтпусков</reports>
+  <reports>Report.ВКМ_РасчётыССотрудниками</reports>
   <reports>Report.ДлительностьОтложенногоОбновления</reports>
   <reports>Report.ЗадолженностьПокупателей</reports>
   <reports>Report.ЗадолженностьПоставщикам</reports>
