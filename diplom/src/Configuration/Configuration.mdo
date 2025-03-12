@@ -1290,6 +1290,7 @@
   <enums>Enum.ЦветностиИзображения</enums>
   <reports>Report.АнализЖурналаРегистрации</reports>
   <reports>Report.АнализПравДоступа</reports>
+  <reports>Report.ВКМ_АнализВыставленныхАктов</reports>
   <reports>Report.ВКМ_ВыработкаСпециалистов</reports>
   <reports>Report.ДлительностьОтложенногоОбновления</reports>
   <reports>Report.ЗадолженностьПокупателей</reports>

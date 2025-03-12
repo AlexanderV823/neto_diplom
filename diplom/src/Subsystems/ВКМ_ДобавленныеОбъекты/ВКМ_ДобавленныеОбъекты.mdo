@@ -36,4 +36,5 @@
   <content>Role.ВКМ_ДобавлениеИзменениеНачислениеЗаработнойПлаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеНачислениеФиксированнойПремии</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
 </mdclass:Subsystem>
