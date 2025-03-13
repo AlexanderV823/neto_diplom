@@ -40,7 +40,6 @@
   <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
   <content>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</content>
-  <content>Role.ВКМ_БазовыеПрава</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>Role.ВКМ_ПросмотрОтчетаРасходЗапланированныхОтпусков</content>
