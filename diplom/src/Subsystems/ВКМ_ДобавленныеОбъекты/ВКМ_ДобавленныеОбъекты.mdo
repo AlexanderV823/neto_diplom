@@ -50,4 +50,5 @@
   <content>Role.ВКМ_ПросмотрОтчетаРасчётыССотрудниками</content>
   <content>Role.ВКМ_ПросмотрОтчетаАнализВыставленныхАктов</content>
   <content>Role.ВКМ_ПросмотрОтчетаВыработкаСпециалистов</content>
+  <content>Role.ВКМ_БазоваяРоль</content>
 </mdclass:Subsystem>
