@@ -25,10 +25,10 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <registerRecords>CalculationRegister.ВКМ_ОсновныеНачисления</registerRecords>
-  <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
-  <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
-  <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
   <registerRecords>AccumulationRegister.ВКМ_УчетОтпусков</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
+  <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
+  <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="e462b8fc-e7d3-4dc2-8cc6-6b04a7ebb3fa">

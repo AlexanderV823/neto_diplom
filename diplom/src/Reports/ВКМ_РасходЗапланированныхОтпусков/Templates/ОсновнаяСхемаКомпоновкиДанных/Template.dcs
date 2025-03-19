@@ -55,6 +55,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>true</useRestriction>
 		<expression>&amp;Период.ДатаНачала</expression>
 		<availableAsField>false</availableAsField>
@@ -73,6 +74,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
 		<availableAsField>false</availableAsField>
 	</parameter>
@@ -90,6 +92,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>true</useRestriction>
 		<expression>&amp;Период.ДатаОкончания</expression>
 		<availableAsField>false</availableAsField>
@@ -108,6 +111,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
 		<availableAsField>false</availableAsField>
 	</parameter>
@@ -155,6 +159,10 @@
 			</dcsset:dataParameters>
 			<dcsset:outputParameters>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>ВыводитьЗаголовок</dcscor:parameter>
+					<dcscor:value xsi:type="dcsset:DataCompositionTextOutputType">Auto</dcscor:value>
+				</dcscor:item>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>Заголовок</dcscor:parameter>
 					<dcscor:value xsi:type="v8:LocalStringType">
 						<v8:item>
@@ -162,10 +170,6 @@
 							<v8:content>Расход запланированных отпусков</v8:content>
 						</v8:item>
 					</dcscor:value>
-				</dcscor:item>
-				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-					<dcscor:parameter>ВыводитьЗаголовок</dcscor:parameter>
-					<dcscor:value xsi:type="dcsset:DataCompositionTextOutputType">Auto</dcscor:value>
 				</dcscor:item>
 			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">

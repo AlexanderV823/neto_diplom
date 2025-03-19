@@ -64,6 +64,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>true</useRestriction>
 		<expression>&amp;Период.ДатаНачала</expression>
 		<availableAsField>false</availableAsField>
@@ -82,6 +83,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>true</useRestriction>
 		<availableAsField>false</availableAsField>
 	</parameter>
@@ -99,6 +101,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>true</useRestriction>
 		<availableAsField>false</availableAsField>
 	</parameter>
@@ -113,6 +116,7 @@
 		<valueType>
 			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Пользователи</v8:Type>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
 		<use>Always</use>
 	</parameter>
@@ -130,6 +134,7 @@
 				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:nil="true"/>
 		<useRestriction>true</useRestriction>
 		<expression>&amp;Период.ДатаОкончания</expression>
 		<availableAsField>false</availableAsField>
@@ -173,15 +178,18 @@
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:use>false</dcscor:use>
 					<dcscor:parameter>НачалоПериода</dcscor:parameter>
+					<dcscor:value xsi:nil="true"/>
 					<dcsset:userSettingID>d33c26b3-0a71-459f-9bd7-e5c67e95cd2b</dcsset:userSettingID>
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:use>false</dcscor:use>
 					<dcscor:parameter>КонецПериода</dcscor:parameter>
+					<dcscor:value xsi:nil="true"/>
 					<dcsset:userSettingID>1b0db862-14d9-4879-b088-565086be01d9</dcsset:userSettingID>
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>Сотрудник</dcscor:parameter>
+					<dcscor:value xsi:nil="true"/>
 					<dcsset:userSettingID>38ddffe0-90d0-45e6-b51f-3238b1a8d482</dcsset:userSettingID>
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
@@ -192,6 +200,10 @@
 			</dcsset:dataParameters>
 			<dcsset:outputParameters>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>ВыводитьЗаголовок</dcscor:parameter>
+					<dcscor:value xsi:type="dcsset:DataCompositionTextOutputType">Auto</dcscor:value>
+				</dcscor:item>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>Заголовок</dcscor:parameter>
 					<dcscor:value xsi:type="v8:LocalStringType">
 						<v8:item>
@@ -199,10 +211,6 @@
 							<v8:content>Выработка специалистов</v8:content>
 						</v8:item>
 					</dcscor:value>
-				</dcscor:item>
-				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-					<dcscor:parameter>ВыводитьЗаголовок</dcscor:parameter>
-					<dcscor:value xsi:type="dcsset:DataCompositionTextOutputType">Auto</dcscor:value>
 				</dcscor:item>
 			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">

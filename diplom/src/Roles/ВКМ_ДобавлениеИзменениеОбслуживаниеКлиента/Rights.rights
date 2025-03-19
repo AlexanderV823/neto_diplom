@@ -11,6 +11,13 @@
 		</right>
 	</object>
 	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.Dimension.Сотрудник</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.НоменклатурныеГруппы</name>
 		<right>
 			<name>Read</name>
@@ -272,6 +279,85 @@
 		</right>
 	</object>
 	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>TotalsControl</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ReadDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ReadDataHistoryOfMissingData</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistoryOfMissingData</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistorySettings</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ViewDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>EditDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>SwitchToDataHistoryVersion</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardAttribute.Active</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardAttribute.LineNumber</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardAttribute.Recorder</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardAttribute.Period</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.Номенклатура</name>
 		<right>
 			<name>Read</name>
@@ -352,6 +438,13 @@
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
 			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.Resource.ПроцентОтРабот</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
 		</right>
 	</object>
 	<object>
@@ -959,6 +1052,13 @@
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
 			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ВКМ_УсловияОплатыСотрудников.Resource.Оклад</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
 		</right>
 	</object>
 	<object>
