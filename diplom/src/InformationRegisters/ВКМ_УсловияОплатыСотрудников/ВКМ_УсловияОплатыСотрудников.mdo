@@ -43,11 +43,11 @@
     </type>
     <format>
       <key>ru</key>
-      <value>ЧН=0,00</value>
+      <value>ЧДЦ=2; ЧН=0,00</value>
     </format>
     <editFormat>
       <key>ru</key>
-      <value>ЧН=0,00</value>
+      <value>ЧДЦ=2; ЧН=0,00</value>
     </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
@@ -70,11 +70,11 @@
     </type>
     <format>
       <key>ru</key>
-      <value>ЧН=0,00</value>
+      <value>ЧДЦ=2; ЧН=0,00</value>
     </format>
     <editFormat>
       <key>ru</key>
-      <value>ЧН=0,00</value>
+      <value>ЧДЦ=2; ЧН=0,00</value>
     </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
